@@ -32,7 +32,7 @@ class Tv
 }
 
 
-public class Class {
+public class classes {
 
     public static void main(String[] args)
             {
@@ -40,7 +40,7 @@ public class Class {
 
                     mi.model = 8561465 ;
                     mi.price = 80000 ;
-
+                    
                     mi.show();
 
                     mobile lo = new mobile();
